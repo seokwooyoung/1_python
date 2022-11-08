@@ -7,6 +7,6 @@ j = 1
 
 while j <= 10:
     i = 3/5 * i
-    print(j, round(i,4))
+    print(j, round(i, 4))
 #   print(j, i)
     j = j + 1

@@ -1,0 +1,23 @@
+# 정수형
+>> type(3)
+<class 'int'>
+
+# 부동소수점수
+>> type(2.8)
+<class 'float'>
+
+# 복소수
+>> type(3+4j)
+<class 'complex'>
+
+# 문자열
+>> type('A')
+<class 'str'>
+
+# 리스트
+>> type('[A, B, C]')
+<class 'list'>
+
+# 튜플
+>> type(('kim', 'lee', 'park'))
+<class 'tuple'>

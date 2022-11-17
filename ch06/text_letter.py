@@ -21,5 +21,8 @@ letter.close()
 
 letter = open('C:\\Users\HP\Desktop\python\ch06\letter.txt', 'a+')   #a+
 letter.write('\n\nWhere are you?')
+
+letter = open('C:\\Users\HP\Desktop\python\ch06\letter.txt', 'a+')   #a+
+letter.write('\n\nWhat are you doing?')
 letter.close()
 
